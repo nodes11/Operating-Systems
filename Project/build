@@ -1,0 +1,15 @@
+./mku init
+echo "\n"
+./mku login
+echo "\n"
+./mku grep
+echo "\n"
+./mku cat
+echo "\n"
+./mku l2u
+echo "\n"
+./mku sh
+echo "\n"
+./mku more
+echo "\n"
+./mku cp
